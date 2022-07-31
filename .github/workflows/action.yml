@@ -3,9 +3,7 @@ name: my action >> deploy to gh-pages
 
 on:
   push:
-    branches: [ master ]
   pull_request:
-    branches: [ master ]
 
 jobs:
   build:
