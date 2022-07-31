@@ -1,3 +1,5 @@
+[![my action >> deploy to gh-pages](https://github.com/root-ansh/test_r_deploy/actions/workflows/action.yml/badge.svg?event=push)](https://github.com/root-ansh/test_r_deploy/actions/workflows/action.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
