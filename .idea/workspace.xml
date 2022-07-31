@@ -38,7 +38,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="npm.eject">
+  <component name="RunManager" selected="npm.start">
     <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -71,8 +71,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.eject" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.eject" />
         <item itemvalue="npm.setup" />
       </list>
     </recent_temporary>
